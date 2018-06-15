@@ -1,5 +1,7 @@
 # PyJNIusCourse20180615
-完美的Python与Java通信解决方案之PyJNIus库
+完美的Python与Java通信解决方案之PyJNIus库  
+
+[@PyJNIus](https://github.com/kivy/pyjnius)  
 
 # 软件环境需求  
 
