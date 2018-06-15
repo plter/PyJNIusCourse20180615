@@ -3,7 +3,7 @@
 
 # 软件环境需求  
 
-* Java 8 SDK +
-* Anaconda 
-* PyCharm
-* IntelliJ IDEA 
+* Java 8 SDK + [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* Anaconda [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+* PyCharm [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+* IntelliJ IDEA [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
