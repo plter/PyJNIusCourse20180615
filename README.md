@@ -1,6 +1,7 @@
 # PyJNIusCourse20180615
 完美的Python与Java通信解决方案之PyJNIus库  
 
+[@视频教程地址](https://yunp.top/m/course/v/1028)
 [@PyJNIus](https://github.com/kivy/pyjnius)  
 
 # 软件环境需求  
